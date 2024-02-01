@@ -4,3 +4,6 @@
 # go run print-fmt.go
 # go run print-golang.go  
 go run array.go  
+go run list.go  
+
+
